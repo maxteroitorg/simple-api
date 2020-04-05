@@ -1,0 +1,29 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Simple Api with nodejs and mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxteroitorg/simple-api.git"
+  },
+  "keywords": [
+    "maxteroit",
+    "api",
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Dinar Hamid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxteroitorg/simple-api/issues"
+  },
+  "homepage": "https://github.com/maxteroitorg/simple-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
