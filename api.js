@@ -79,7 +79,4 @@ app.post('/user/edit/:id',function(req, res){
 	res.send(json(global.result))
 })
 
-app.get('/memek',function(req,res){
-	res.send("hello");
-})
 module.exports = app;
