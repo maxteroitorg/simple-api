@@ -1,4 +1,4 @@
-#Simple API with NodeJs and Mysql.
+# Simple API with NodeJs and Mysql.
 
 * install and run.
 * go to folder api and run this command.
